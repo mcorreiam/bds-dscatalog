@@ -1,0 +1,15 @@
+.prodict-price-container {
+    display: flex;
+}
+
+.prodict-price-container span {
+    font-size: 18px;
+    color: #9E9E9E;
+    margin-top: 4px;
+}
+
+.prodict-price-container h3 {
+    font-size: 32px;
+    color:#407BFF;
+    margin-left: 10px;
+}
